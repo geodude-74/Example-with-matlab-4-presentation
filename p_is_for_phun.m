@@ -11,5 +11,11 @@ end
 B = ones (2,2);
 A*B
 
-2*(a*B)
+2*(A*B)
+
+% changed the letter A  and also added this line % 
+
+% will add some more here, and just play with this%
+
+C=det(A);
 

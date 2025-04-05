@@ -18,3 +18,5 @@ A*B
 % will add some more here, and just play with this%
 
 C=det(A); D=1/C;
+
+% including these new lines as I'm updating the text%

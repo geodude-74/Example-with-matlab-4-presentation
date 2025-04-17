@@ -18,3 +18,5 @@ A*B
 % will add some more here, and just play with this%
 
 C=det(A); D=1/C;
+E = 1/C^2
+%adding new feature, lmk%

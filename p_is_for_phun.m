@@ -19,8 +19,5 @@ A*B
 
 C=det(A); D=1/C;
 
-% including these new lines as I'm updating the text%
-
-%% adding some new lines starting from here%%
-E = ones (100, 100);
-F = .5*E;
+E = 1/C^2
+%adding new feature, lmk%

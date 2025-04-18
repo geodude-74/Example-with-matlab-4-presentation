@@ -21,3 +21,5 @@ C=det(A); D=1/C;
 
 E = 1/C^2
 %adding new feature, lmk%
+% additional parts%
+det(E);

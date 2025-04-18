@@ -16,8 +16,8 @@ A*B
 % changed the letter A  and also added this line % 
 % More text here% 
 % will add some more here, and just play with this%
-
-C=det(A); D=1/C;
-
 E = 1/C^2
 %adding new feature, lmk%
+% additional parts%
+det(E);
+%plus also got rid of some lines%
